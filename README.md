@@ -23,9 +23,6 @@
 ###
 
 <div align="left">
-  <a href="https://discord.gg/Nj6Ch9Ya7q" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="30" alt="discord logo"  />
-  </a>
   <a href="mailto:razfloque@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
   </a>
@@ -33,8 +30,8 @@
 
 ###
 
-<br clear="both">
+[comment]:<br clear="both">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+[comment]:<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
