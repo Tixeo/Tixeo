@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.goopics.net/x2swau.png"  />
+[comment]:<img align="right" height="200" src="https://i.goopics.net/x2swau.png"  />
 
 ###
 
