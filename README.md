@@ -2,6 +2,8 @@
 
 ###
 
+<img src="https://github.com/Schweinepriester/Schweinepriester/raw/master/MeagerHardtofindAlbertosaurus-size_restricted.gif">
+
 [comment]:<img align="right" height="200" src="https://i.goopics.net/x2swau.png"  />
 
 ###
