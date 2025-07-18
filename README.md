@@ -3,7 +3,7 @@
 [comment]:<img align="right" height="200" src="https://i.goopics.net/x2swau.png"  />
 
 # 💫 About Me:
-⌨️ | Développeur passionné de HTML/CSS/JavaScript/Flutter/Python<br><br>🌐 | Discord et Web developpeur<br><br>🕵️‍♂️ | Contactez-moi sur Discord : tixeo<br><br>📨 | Envoyez-moi un message privé pour discuter de projets<br><br>📨 | Contactez-moi via Mail : theo@wheeloh.com<br>
+⌨️ | Développeur passionné de HTML/CSS/JavaScript/Flutter/Python<br><br>🌐 | Discord et Web developpeur<br><br>🕵️‍♂️ | Contactez-moi sur Discord : tixeo<br><br>📨 | Envoyez-moi un message privé pour discuter de projets<br><br>📨 | Contactez-moi via Mail : theo@wheeloh.com<br> or me@tixeo.dev
 
 
 ## 🌐 Socials:
